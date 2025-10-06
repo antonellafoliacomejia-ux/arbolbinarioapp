@@ -75,8 +75,8 @@ Recorrido inorden: 3 8 10
 
 ## 👨‍💻 Autor
 
-- **William Felipe Foliaco Segura**
-- Estudiante de Ingeniería de Diseño de Software y Datos  
+- **William Felipe Foliaco Segura, María Alejandra Ramirez, Juan A. Grajales y Estefania Orrego **
+- Estudiantes  de Ingeniería de Diseño de Software y Datos  
 - Colombia 🇨🇴  
 - Año: 2025
 
@@ -85,4 +85,4 @@ Recorrido inorden: 3 8 10
 ## 📜 Licencia
 
 Este proyecto es de uso **personal y académico**.  
-No debe ser compartido ni distribuido sin autorización del autor.
+.
