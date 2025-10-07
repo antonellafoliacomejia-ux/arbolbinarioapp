@@ -1,6 +1,6 @@
 # 🌳 Proyecto Árbol Binario en Java
 
-Este proyecto fue desarrollado por **William Felipe Foliaco Segura** como parte del estudio y práctica sobre **estructuras de datos en Java**, específicamente el manejo de **árboles binarios de búsqueda (ABB)**.
+Este proyecto fue desarrollado por **William Felipe Foliaco Segura, Estefania Orrego, María Ramírez y Juan A. Grajales ** como parte del estudio y práctica sobre **estructuras de datos en Java**, específicamente el manejo de **árboles binarios de búsqueda (ABB)**.
 
 ---
 
